@@ -1,0 +1,12 @@
+{
+  "name": "iterationbobjects",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task/task.js",
+  "keywords": [],
+  "dependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6"
+  }
+}
